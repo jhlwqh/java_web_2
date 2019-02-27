@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca22313d-2270-4927-9d0d-6f679fc7163f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ca22313d-2270-4927-9d0d-6f679fc7163f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +23,7 @@
     <session id="-1233049877">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.16" value="1" />
@@ -234,7 +232,7 @@
     <property name="SearchEverywhereHistoryKey" value="mav&#9;ACTION&#9;ActivateMavenProjectsToolWindow&#10;File-Project&#9;null&#9;null&#10;m&#9;ACTION&#9;ActivateMavenProjectsToolWindow&#10;ma&#9;ACTION&#9;ActivateMavenProjectsToolWindow&#10;maven&#9;ACTION&#9;ActivateMavenProjectsToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551259915752" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551260042043" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -363,12 +361,12 @@
       <workItem from="1545098779562" duration="34000" />
       <workItem from="1545098897023" duration="310000" />
       <workItem from="1551227318440" duration="1301000" />
-      <workItem from="1551259700619" duration="263000" />
+      <workItem from="1551259700619" duration="383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115337000" />
+    <option name="totallyTimeSpent" value="115457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="303" y="364" width="1155" height="720" extended-state="0" />
