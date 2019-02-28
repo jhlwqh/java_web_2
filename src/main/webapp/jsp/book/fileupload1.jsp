@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: dapanghailan
-  Date: 2019-02-28
-  Time: 8:48 AM
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" pageEncoding="utf-8" %>
 <html>
 <head>
@@ -23,7 +16,7 @@
                 alert("请选择上传文件");
                 return false;
             }
-            document.frmupload.action="${pageContext.request.contextPath}/fileUpload1";
+            document.frmupload.action="${pageContext.request.contextPath}/fileUpLoad1";
             document.frmupload.submit();
         }
     </script>

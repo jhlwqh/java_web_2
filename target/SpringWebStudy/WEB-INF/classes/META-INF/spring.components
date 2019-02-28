@@ -1,7 +1,8 @@
 #
-#Wed Feb 27 10:17:49 CST 2019
+#Thu Feb 28 19:18:50 CST 2019
 com.hbxy.course.login.controller.LoginController=org.springframework.stereotype.Component
 com.hbxy.course.controller.SecondController=org.springframework.stereotype.Component
+com.hbxy.course.controller.FileUploadController=org.springframework.stereotype.Component
 com.hbxy.course.book.service.impl.BookServiceImpl=org.springframework.stereotype.Component
 com.hbxy.course.book.controller.BookController=org.springframework.stereotype.Component
 com.hbxy.course.controller.FirstController=org.springframework.stereotype.Component
