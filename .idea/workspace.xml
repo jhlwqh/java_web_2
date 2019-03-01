@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca22313d-2270-4927-9d0d-6f679fc7163f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/book/filedownload.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/book/filedownload.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,7 +28,7 @@
     <session id="-1233049877">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="2" />
@@ -37,13 +37,13 @@
           <entry key="project.open.time.18" value="5" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,14 +68,14 @@
         <counts>
           <entry key="dummy" value="7" />
           <entry key="java" value="6351" />
-          <entry key="jsp" value="3024" />
+          <entry key="jsp" value="3025" />
           <entry key="xml" value="866" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="6351" />
-          <entry key="JSP" value="3024" />
+          <entry key="JSP" value="3025" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="XML" value="866" />
         </counts>
@@ -172,8 +172,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/book/filedownload.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="144">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -181,7 +181,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/course/controller/FileDownloadController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
+            <state relative-caret-position="486">
               <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -297,8 +297,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="276" />
-    <option name="y" value="23" />
+    <option name="x" value="221" />
+    <option name="y" value="390" />
     <option name="width" value="1103" />
     <option name="height" value="720" />
   </component>
@@ -324,8 +324,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -417,6 +415,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -561,14 +561,16 @@
       <workItem from="1551350161001" duration="4308000" />
       <workItem from="1551398406612" duration="6000000" />
       <workItem from="1551423346092" duration="195000" />
+      <workItem from="1551439992779" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132485000" />
+    <option name="totallyTimeSpent" value="132498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="276" y="23" width="1103" height="720" extended-state="0" />
+    <frame x="221" y="390" width="1103" height="720" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33907524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -911,7 +913,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hbxy/course/controller/FileDownloadController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
+        <state relative-caret-position="486">
           <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -921,8 +923,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/book/filedownload.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="144">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
