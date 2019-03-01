@@ -1,5 +1,6 @@
 #
-#Thu Feb 28 19:18:50 CST 2019
+#Fri Mar 01 09:26:09 CST 2019
+com.hbxy.course.controller.FileDownloadController=org.springframework.stereotype.Component
 com.hbxy.course.login.controller.LoginController=org.springframework.stereotype.Component
 com.hbxy.course.controller.SecondController=org.springframework.stereotype.Component
 com.hbxy.course.controller.FileUploadController=org.springframework.stereotype.Component

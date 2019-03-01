@@ -12,7 +12,7 @@
 </head>
 <body>
 <h2>欢迎使用XXXX系统</h2>
-<a href="${pageContext.request.contextPath}/jsp/book/fileupload1.jsp">退出</a>
+<a href="${pageContext.request.contextPath}/jsp/book/fileupload1.jsp">上传文件</a>
 &nbsp;&nbsp;&nbsp;
 <a href="${pageContext.request.contextPath}/logout">退出</a>
 </body>
